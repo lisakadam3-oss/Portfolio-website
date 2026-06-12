@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>My Portfolio</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            text-align: center;
+            background-color: #f4f4f4;
+            margin: 0;
+        }
+
+        header {
+            background-color: #007BFF;
+            color: white;
+            padding: 20px;
+        }
+
+        section {
+            margin: 20px;
+            padding: 20px;
+            background: white;
+            border-radius: 10px;
+        }
+
+        footer {
+            background-color: #333;
+            color: white;
+            padding: 10px;
+        }
+    </style>
+</head>
+<body>
+
+<header>
+    <h1>Lisa Kadam</h1>
+    <p>Aspiring IT Business Development Executive</p>
+</header>
+
+<section>
+    <h2>About Me</h2>
+    <p>I am a fresher interested in IT Business Development, Sales, and Client Communication.</p>
+</section>
+
+<section>
+    <h2>Skills</h2>
+    <ul style="list-style:none;">
+        <li>Communication Skills</li>
+        <li>Lead Generation</li>
+        <li>MS Office</li>
+        <li>CRM Basics</li>
+    </ul>
+</section>
+
+<section>
+    <h2>Contact</h2>
+    <p>Email: lisakadam3@gmail.com</p>
+    <p>Phone: +918767933644</p>
+</section>
+
+<footer>
+    <p>© 2026 Lisa Kadam</p>
+</footer>
+
+</body>
+</html>
